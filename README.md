@@ -1,0 +1,1 @@
+# contrib-config-for-docker.ini
